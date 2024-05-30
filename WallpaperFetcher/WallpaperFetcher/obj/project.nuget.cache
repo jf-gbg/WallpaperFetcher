@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKx90jbryttod4cY2F/zeDSMzmAInQNMZB2d1zOTsx/XM+WxFB05TVSY/xThOtVj+ORQX+1ni82JOuLDoOp7xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malmm\\source\\repos\\WallpaperFetcher\\WallpaperFetcher\\WallpaperFetcher\\WallpaperFetcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malmm\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
